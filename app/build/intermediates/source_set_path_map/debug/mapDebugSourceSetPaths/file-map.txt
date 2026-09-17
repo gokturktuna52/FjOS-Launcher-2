@@ -1,0 +1,7 @@
+com.fjos.launcher.app-pngs-0 /workspaces/FjOS-Launcher-2/app/build/generated/res/pngs/debug
+com.fjos.launcher.app-resValues-1 /workspaces/FjOS-Launcher-2/app/build/generated/res/resValues/debug
+com.fjos.launcher.app-packageDebugResources-2 /workspaces/FjOS-Launcher-2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.fjos.launcher.app-packageDebugResources-3 /workspaces/FjOS-Launcher-2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.fjos.launcher.app-debug-4 /workspaces/FjOS-Launcher-2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.fjos.launcher.app-debug-5 /workspaces/FjOS-Launcher-2/app/src/debug/res
+com.fjos.launcher.app-main-6 /workspaces/FjOS-Launcher-2/app/src/main/res
